@@ -14,7 +14,7 @@ Despliegue de un entorno web completo y escalable utilizando contenedores sobre 
 * **Tienda:** PrestaShop.
 
 ### 📸 Capturas del Proyecto:
-A continuación, se muestra la interfaz principal con temática de TWICE y el panel de administración:
+A continuación, se muestra la interfaz principal con temática de TWICE y el e-comerce:
 
 ![Página Principal](main%20page%20-%20TWICE.png)
 ![Sección de Productos](Section.png)
