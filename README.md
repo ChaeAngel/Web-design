@@ -17,10 +17,7 @@ Despliegue de un entorno web completo y escalable utilizando contenedores sobre 
 A continuación, se muestra la interfaz principal con temática de TWICE y el panel de administración:
 
 ![Página Principal](main%20page%20-%20TWICE.png)
-![Panel PrestaShop](PrestaShop.png)
 ![Sección de Productos](Section.png)
-
+![Panel PrestaShop](PrestaShop.png)
+![Merchandising](Merchandising.png)
 ---
-
-## 📝 Otros Proyectos
-*   **Diseño en WordPress:** Colaboración en maquetación visual y estilos CSS.
