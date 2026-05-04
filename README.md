@@ -18,6 +18,6 @@ A continuación, se muestra la interfaz principal con temática de TWICE y el pa
 
 ![Página Principal](main%20page%20-%20TWICE.png)
 ![Sección de Productos](Section.png)
-![Panel PrestaShop](PrestaShop.png)
 ![Merchandising](Merchandising.png)
+![Panel PrestaShop](PrestaShop.png)
 ---
